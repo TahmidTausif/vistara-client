@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "place_name": "Cox's Bazar",
+        "country": "Bangladesh",
+        "img": "https://i.ibb.co/6mtpxMR/coxsbazar.jpg"
+    },
+    {
+        "id": 2,
+        "place_name": "Phi Phi Island",
+        "country": "Thailand",
+        "img": "https://i.ibb.co/xgnncWp/phiphi.jpg"
+    },
+    {
+        "id": 3,
+        "place_name": "Bali",
+        "country": "Indonesia",
+        "img": "https://i.ibb.co/3M5sNCn/bali.png"
+    },
+    {
+        "id": 4,
+        "place_name": "Langkawi",
+        "country": "Malaysia",
+        "img": "https://i.ibb.co/tzs8cp6/langkawi.jpg"
+    }
+]
